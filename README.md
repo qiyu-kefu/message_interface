@@ -1,5 +1,7 @@
 # 七鱼消息接口接入示例
 
+[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](./LICENSE)
+
 这个项目用java语言封装了七鱼的消息接口，并以微信公众号的开发模式为例子，简单展示了如果使用七鱼的消息接口。
 
 ## 接口封装
